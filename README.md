@@ -1,6 +1,6 @@
 # Summary2Table
 Python script that converts a tensorflow summary into a LaTeX table. 
-
+![](demo.gif)
 # Instructions
 1. Install Python3
 2. Download the script
